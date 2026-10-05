@@ -293,3 +293,5 @@ with col_right:
             st.error("Yeterli ortak gözlem bulunamadı.")
     else:
         st.info("Sol taraftan iki CSV dosyasını seçip 'Tahmini Hesapla' butonuna basın.")
+
+
